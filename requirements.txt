@@ -3,5 +3,4 @@ streamlit==1.20.0
 scikit-learn
 nltk==3.5
 stopwords
-pickle
 porterstemmer
