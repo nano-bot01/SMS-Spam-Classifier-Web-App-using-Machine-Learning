@@ -1,3 +1,5 @@
 scikit-learn
 streamlit
 nltk
+stopwords
+punkt
