@@ -1,6 +1,7 @@
 # SMS-Spam-Classifier-Web-App-using-Machine-Learning
 SMS Spam Classifier Web Application which is used to classify spam and ham in text messages we receive in phones
 
+# [DEPLOYED_LINK_IS_HERE](https://sms-spam-classifier-web-app.streamlit.app/)
 
 ## How it works
 - The app uses a machine learning model to classify SMS messages. The model is trained on a dataset of SMS messages that have been labeled as spam or ham. The model works by extracting features from the SMS messages, such as the length of the message, the number of exclamation points, and the presence of certain keywords. The features are then used to train a classifier, which predicts whether a new SMS message is spam or ham.
